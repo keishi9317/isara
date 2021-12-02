@@ -1200,6 +1200,9 @@ border-radius: 50%;
   display: inline-block;
   padding: 15px;
 }
+.main26-risuto-sp {
+  display: none;
+ } 
 .main26-p1{
   text-align: center;
   color: #ebb94d;
